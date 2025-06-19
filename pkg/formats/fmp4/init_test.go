@@ -6,9 +6,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/bluenviron/mediacommon/v2/pkg/codecs/mpeg4audio"
-	"github.com/bluenviron/mediacommon/v2/pkg/formats/fmp4/seekablebuffer"
-	"github.com/bluenviron/mediacommon/v2/pkg/formats/mp4"
+	"github.com/devsisters/mediacommon/v2/pkg/codecs/mpeg4audio"
+	"github.com/devsisters/mediacommon/v2/pkg/formats/fmp4/seekablebuffer"
+	"github.com/devsisters/mediacommon/v2/pkg/formats/mp4"
 )
 
 var testSPS = []byte{

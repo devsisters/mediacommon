@@ -3,8 +3,8 @@ package fmp4
 import (
 	amp4 "github.com/abema/go-mp4"
 
-	imp4 "github.com/bluenviron/mediacommon/v2/internal/mp4"
-	"github.com/bluenviron/mediacommon/v2/pkg/formats/mp4"
+	imp4 "github.com/devsisters/mediacommon/v2/internal/mp4"
+	"github.com/devsisters/mediacommon/v2/pkg/formats/mp4"
 )
 
 const (

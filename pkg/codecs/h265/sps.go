@@ -3,8 +3,8 @@ package h265
 import (
 	"fmt"
 
-	"github.com/bluenviron/mediacommon/v2/pkg/bits"
-	"github.com/bluenviron/mediacommon/v2/pkg/codecs/h264"
+	"github.com/devsisters/mediacommon/v2/pkg/bits"
+	"github.com/devsisters/mediacommon/v2/pkg/codecs/h264"
 )
 
 const (
